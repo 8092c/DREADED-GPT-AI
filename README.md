@@ -2,6 +2,12 @@
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
+
+# DISCLAIMER
+
+***Do not modify, omit or edit the credits given else we can take illegal/legal action! 
+This applies to forks and ctrlCctrlV(imports)***
+
 ## FEATURES
 This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
 
@@ -59,6 +65,23 @@ $ npm install
 $ node index.js
 ```
 
+# Credits
+
+Thanks to...
+
+<div align="center">
+  
+| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
+|----|
+* [`Fortunatus mokaya`](https://github.com/Fortunatusmokaya) ***Author, Owner***
+
+* [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
+* [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
+* [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***Maintaining the bot libs***
+
+* 
+
+---
 
 Incase of any issues, contact me  [here](https://wa.me/+254114018035) via WhatsApp or [here](mokayafortunatus@gmail.com) via Email.
 
